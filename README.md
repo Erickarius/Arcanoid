@@ -4,8 +4,7 @@ Short instruction:
 1. Run game
 2. Use the LEFT and RIGHT arrow keys to fix the paddle in motion
 
-
-
+# Video and screenshot:
 
 https://user-images.githubusercontent.com/117024079/200175375-116752f0-9990-4472-8263-39458bfdcaab.mp4
 
